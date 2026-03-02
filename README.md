@@ -40,6 +40,9 @@ cd VBALiveSync
 Simply provide the VBALiveSync.md file as a System Prompt or Custom Instruction in your AI IDE. The Agent will immediately understand the architecture and begin managing your VBA modules through the vba_sync_auto.py script.
 
 👤 Author Information
+
 • Author: Nunes-93 - Modernizing legacy workflows through AI and automation.
+
 • GitHub Profile: https://github.com/Nunes-93
+
 • Project Repository: https://github.com/Nunes-93/VBALiveSync
