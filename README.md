@@ -32,7 +32,7 @@ The true power of **VBALiveSync** resides in the `VBALiveSync.md` configuration.
 Clone the repository to your machine:
 
 ```bash
-git clone [https://github.com/Nunes-93/VBALiveSync.git](https://github.com/Nunes-93/VBALiveSync.git)
+git clone https://github.com/Nunes-93/VBALiveSync.git
 cd VBALiveSync
 ```
 
