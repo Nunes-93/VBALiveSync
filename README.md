@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python: 3.x](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
-[![AI-Ready](https://img.shields.io/badge/AI%20Agent-Ready-purple.svg)]()
+[![AI-Ready](https://img.shields.io/badge/AI%20Agent-Ready-purple.svg)](https://github.com/Nunes-93/VBALiveSync/blob/main/VBALiveSync.md)
 
 **VBALiveSync** is a revolutionary framework designed to enable AI Coding Agents (like Cursor, Windsurf, or GitHub Copilot) to develop, edit, and maintain VBA code directly within active Excel workbooks.
 
@@ -39,7 +39,7 @@ cd VBALiveSync
 🚀 How to Use with AI
 Simply provide the VBALiveSync.md file as a System Prompt or Custom Instruction in your AI IDE. The Agent will immediately understand the architecture and begin managing your VBA modules through the vba_sync_auto.py script.
 
-👤 Author
-Nunes-93 - Modernizing legacy workflows through AI and automation.
-
-💼 GitHub: @Nunes-93
+👤 Author Information
+• Author: Nunes-93 - Modernizing legacy workflows through AI and automation.
+• GitHub Profile: https://github.com/Nunes-93
+• Project Repository: https://github.com/Nunes-93/VBALiveSync
