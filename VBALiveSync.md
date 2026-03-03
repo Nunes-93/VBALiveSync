@@ -16,6 +16,7 @@ Whenever I ask to create, edit, analyze, or delete a macro, you must strictly fo
     * **In Variables, Names, and Comments:** Remove accents (e.g., change `Usuário` to `Usuario`).
     * **Extracted Files (Pull):** Whenever you analyze a file newly extracted from Excel, scan it. If you find original accents, **your first mandatory action** is to refactor and sanitize the entire code applying the rules above before processing my main request.
 7. **Zero-Trust Environment (Mandatory Check):** Never assume the Python environment is ready. This project might have been just cloned or copied to a new computer. You MUST verify and install dependencies before running any script.
+8. **Mandatory Option Explicit:** Every new or edited module must begin with `Option Explicit`. This is non-negotiable to prevent variable naming errors and ensure code robustness.
 
 ---
 
