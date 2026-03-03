@@ -4,7 +4,7 @@
 [![Python: 3.x](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![AI-Ready](https://img.shields.io/badge/AI%20Agent-Ready-purple.svg)](https://github.com/Nunes-93/VBALiveSync/blob/main/VBALiveSync.md)
 
-**VBALiveSync** is a revolutionary framework designed to enable AI Coding Agents (like Cursor, Windsurf, or GitHub Copilot) to develop, edit, and maintain VBA code directly within active Excel workbooks.
+**VBALiveSync** is a revolutionary framework designed to enable AI Coding Agents (like Cursor, Windsurf, Antigravity, Trae, Kiro or VS Code) to develop, edit, and maintain VBA code directly within active Excel workbooks.
 
 By using Python and the Windows COM interface, this tool bypasses the limitations of the native VBE, allowing a seamless, live, and safe two-way synchronization between modern IDEs and Excel.
 
